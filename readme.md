@@ -17,7 +17,7 @@ CSS:
 - responsive design using flex display
 
 JS:
--  methods
+- DOM methods
 - arrays
 - event listeners
 - forEach loop
