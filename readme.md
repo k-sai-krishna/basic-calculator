@@ -1,5 +1,6 @@
 # Basic Calculator
-##### This is a basic calculator project
+This is a basic calculator project
+
 Here is what I implemented in this project
 #### Functionalities
 * Arithmetic calculation
