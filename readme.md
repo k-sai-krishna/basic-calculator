@@ -9,11 +9,11 @@ Here is what I implemented in this project
 Concepts I implemented here in each technology
 
 HTML:
-- basic html and,
-- basic calculator structure using div element
+- basic html and
+- basic calculator structure using div elements
 
 CSS:
-- basic css styling and,
+- basic css styling and
 - responsive design using flex display
 
 JS:
@@ -22,4 +22,4 @@ JS:
 - event listeners
 - forEach loop
 - conditional statements
-- error handling
+- error handling(try-catch)
