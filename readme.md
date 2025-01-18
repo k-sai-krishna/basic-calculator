@@ -1,23 +1,24 @@
-This is a basic calculator project
+# Basic Calculator
+##### This is a basic calculator project
 Here is what I implemented in this project
-Functionalities
+#### Functionalities
 * Arithmetic calculation
 * Invalid expression detection
 
-concepts implemented in each technology
+Concepts I implemented in each technology in this project
 
 HTML:
-* basic html and,
-* basic calculator structure using div element
+- basic html and,
+- basic calculator structure using div element
 
 CSS:
-* basic css styling and,
-* responsive design using flex display
+- basic css styling and,
+- responsive design using flex display
 
 JS:
-* dom methods
-* arrays
-* event listeners
-* forEach loop
-* conditional statements
-* error handling
+-  methods
+- arrays
+- event listeners
+- forEach loop
+- conditional statements
+- error handling
