@@ -6,7 +6,7 @@ Here is what I implemented in this project
 * Arithmetic calculation
 * Invalid expression detection
 
-Concepts I implemented in each technology in this project
+Concepts I implemented here in each technology
 
 HTML:
 - basic html and,
