@@ -6,7 +6,9 @@ button{
 }
 input{
   width: 223px;
-  height: 20px;
+  height: 30px;
+  border: .7px solid black;
+  color: black;
   margin-top: 2px;
   margin-bottom: 4px;
   font-size: 18px;
