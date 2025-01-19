@@ -24,8 +24,11 @@ buttons.forEach(button => {
       error_message.className = 'disable';
     } else if (e.target.innerHTML === '=') {
       try {
-        expression = eval(expression);
+        let equation = expression;
+        expression = parseFloat(eval(expression)).toFixed(2);
         input.value = expression;
+        equation += ' = ' +expression;
+        console.log(equation);
         console.log('Expression Evaluated :)');
       } catch (error) {
         // alert('Invalid input');
